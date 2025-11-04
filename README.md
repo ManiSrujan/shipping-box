@@ -62,7 +62,7 @@ PUBLIC_APP_BASE_URL=http://localhost:3000
 Create a `.env.production` file for production:
 
 ```
-PUBLIC_APP_BASE_URL=https://shippingbox.example.com
+PUBLIC_APP_BASE_URL=https://shippingbox.devcord.in/
 ```
 
 ### 3. Start the development server
