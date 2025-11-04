@@ -71,7 +71,7 @@ PUBLIC_APP_BASE_URL=https://shippingbox.example.com
 npm run dev
 ```
 
-App runs at [http://localhost:3000](http://localhost:3000)
+App runs at [https://shippingbox.devcord.in/](https://shippingbox.devcord.in/)
 
 ### 4. Build for production
 
